@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Event Planner</string>
+    <string name="events_label">Events</string>
+    <string name="add_event_label">Add Event</string>
+    <string name="title_hint">Event Title *</string>
+    <string name="location_hint">Location</string>
+    <string name="save_button">Save Event</string>
+    <string name="update_button">Update Event</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="error_title_empty">Title cannot be empty!</string>
+    <string name="error_no_date">Please select a date and time!</string>
+    <string name="error_past_date">Cannot create an event in the past!</string>
+    <string name="success_added">Event added successfully!</string>
+    <string name="success_updated">Event updated successfully!</string>
+    <string name="success_deleted">Event deleted successfully!</string>
+    <string name="empty_state">No upcoming events 📭\nTap + to add your first event!</string>
+</resources>
